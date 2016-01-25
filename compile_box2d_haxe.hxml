@@ -1,0 +1,5 @@
+-main MainBox2dHaxe
+#-cpp haxeboxd2
+#-swf haxeboxd2.swf
+-neko haxeboxd2.n
+-lib box2d
